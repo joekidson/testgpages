@@ -1,6 +1,4 @@
 # testgpages
 my test gpages
-## hellow
+## hello
 I am crazy are you *too*?
-*> hello this is a quote
-*- .......
